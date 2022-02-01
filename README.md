@@ -1,2 +1,2 @@
-# visualisatiion
+# visualisation
 familiarize visualization using matplotlib  
